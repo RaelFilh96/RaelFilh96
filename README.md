@@ -1,5 +1,5 @@
 # 💫 Hello Word:
-🔭 Atualmente desenvolvendo um bot de Crypto com Golang <br>🌱 Estudando Go, Terraform, MongoDB e SQL<br>⚡ Sempre disposto a aprender mais.
+🔭<br>🌱 Estudando Go, Terraform, MongoDB e SQL<br>⚡ Sempre disposto a aprender mais.
 
 
 ## 🌐 Socials:
